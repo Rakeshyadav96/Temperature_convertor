@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
+.container{
+    background-color: pink;
+    padding: 15px;
+    border-radius: 15px;
+    
+
+}
+h1{
+    font-size: 30px;
+    padding: 10px;
+    margin: 2px;
+    
+}
+.temp-container{
+    margin: 10px;
+    padding: 10px;
+    margin-top: 0;
+}
+
+label{
+    float: left;
+    font-size: 18px;
+    font-weight: 800;
+    
+}
+input{
+    float: right;
+    font-size: 15px;
+
+}
